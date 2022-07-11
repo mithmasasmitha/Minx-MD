@@ -1,8 +1,8 @@
 {
-  "name": "Minx-MD",
-  "description": "whatsapp md bot build with nodejs",
+  "name": "MITHMA_SASMITHA",
+  "description": "whatsapp md bot build with mithma",
   "repository": "https://github.com/iiuzi-0x/Minx-MD",
-  "logo": "https://telegra.ph/file/558c21a243c3e793bfd1c.jpg",
+  "logo": "https://telegra.ph/file/651ec8ce4651767a7c5aa.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
   "buildpacks": [
  
